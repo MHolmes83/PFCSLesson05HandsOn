@@ -1,0 +1,15 @@
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson05HandsOn\Lesson05HandsOn\bin\Debug\net6.0\Lesson05HandsOn.exe
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson05HandsOn\Lesson05HandsOn\bin\Debug\net6.0\Lesson05HandsOn.deps.json
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson05HandsOn\Lesson05HandsOn\bin\Debug\net6.0\Lesson05HandsOn.runtimeconfig.json
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson05HandsOn\Lesson05HandsOn\bin\Debug\net6.0\Lesson05HandsOn.dll
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson05HandsOn\Lesson05HandsOn\bin\Debug\net6.0\ref\Lesson05HandsOn.dll
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson05HandsOn\Lesson05HandsOn\bin\Debug\net6.0\Lesson05HandsOn.pdb
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson05HandsOn\Lesson05HandsOn\obj\Debug\net6.0\Lesson05HandsOn.csproj.AssemblyReference.cache
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson05HandsOn\Lesson05HandsOn\obj\Debug\net6.0\Lesson05HandsOn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson05HandsOn\Lesson05HandsOn\obj\Debug\net6.0\Lesson05HandsOn.AssemblyInfoInputs.cache
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson05HandsOn\Lesson05HandsOn\obj\Debug\net6.0\Lesson05HandsOn.AssemblyInfo.cs
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson05HandsOn\Lesson05HandsOn\obj\Debug\net6.0\Lesson05HandsOn.csproj.CoreCompileInputs.cache
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson05HandsOn\Lesson05HandsOn\obj\Debug\net6.0\Lesson05HandsOn.dll
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson05HandsOn\Lesson05HandsOn\obj\Debug\net6.0\ref\Lesson05HandsOn.dll
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson05HandsOn\Lesson05HandsOn\obj\Debug\net6.0\Lesson05HandsOn.pdb
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson05HandsOn\Lesson05HandsOn\obj\Debug\net6.0\Lesson05HandsOn.genruntimeconfig.cache
